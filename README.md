@@ -1,6 +1,6 @@
 ## [Cloze Test Helps: Effective Video Anomaly Detection via Learning to Complete Video Events](https://www.researchgate.net/publication/343809709_Cloze_Test_Helps_Effective_Video_Anomaly_Detection_via_Learning_to_Complete_Video_Events)
 
-This repository is the official implementation of [Cloze Test Helps: Effective Video Anomaly Detection via Learning to Complete Video Events](https://dl.acm.org/doi/10.1145/3394171.3413973) (oral paper In ACM Multimedia 2020) by Guang Yu, Siqi Wang, Zhiping Cai, En Zhu, Chuanfu Xu, Jianping Yin, Marius Kloft. 
+This repository is implementation of [Cloze Test Helps: Effective Video Anomaly Detection via Learning to Complete Video Events](https://dl.acm.org/doi/10.1145/3394171.3413973) (oral paper In ACM Multimedia 2020) by Guang Yu, Siqi Wang, Zhiping Cai, En Zhu, Chuanfu Xu, Jianping Yin, Marius Kloft. 
 
 ## 1. Environment
 
@@ -77,19 +77,6 @@ Edit the file `config.cfg` according to Experimental Settings in our paper or yo
 |  AUROC  |  97.3%   | 90.2%  |    74.8%     |
 
 Extensions and higher performance will be released!
-
-## 7. Citation
-
-```
-@inproceedings{yu2020cloze,
-  title={Cloze Test Helps: Effective Video Anomaly Detection via Learning to Complete  	  Video Events},
-  author={Yu, Guang and Wang, Siqi and Cai, Zhiping and Zhu, En and Xu, Chuanfu and Yin, Jianping and Kloft, Marius},
-  booktitle={Proceedings of the 28th ACM International Conference on Multimedia},
-  pages={583--591},
-  year={2020}
-}
-```
-
 
 
 
