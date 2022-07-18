@@ -1,0 +1,6 @@
+[submodule "mmdetection"]
+	path = mmdetection
+	url = https://github.com/open-mmlab/mmdetection/tree/v1.0rc0
+[submodule "flownet2.pytorch"]
+	path = flownet2.pytorch
+	url = https://github.com/vt-vl-lab/flownet2.pytorch
